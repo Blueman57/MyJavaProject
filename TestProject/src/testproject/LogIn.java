@@ -10,5 +10,9 @@ package testproject;
  * @author 2105728815
  */
 public class LogIn {
+    public LogIn(){
+        // This is a constructor.
+        // add 
+    }
     
 }
