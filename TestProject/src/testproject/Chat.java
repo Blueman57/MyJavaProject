@@ -11,6 +11,7 @@ package testproject;
  */
 public class Chat {
     public Chat(){
+        
         // Decor Screen
     }
     
